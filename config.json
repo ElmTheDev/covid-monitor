@@ -1,0 +1,8 @@
+{
+    "countries": [
+        {
+            "code": "BIH",
+            "webhook": "YOUR_WEBHOOK"
+        }
+    ]
+}
